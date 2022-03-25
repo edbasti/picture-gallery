@@ -1,14 +1,8 @@
 # Photo Search App
-Photo Search App made with React using Unsplash API. 
 
-![Desktop](https://paper-attachments.dropbox.com/s_279588340066BC9CAF289676BFCA9374B93C672F84EB3AC78627FBF4934A8F5C_1591950495340_ezgif.com-video-to-gif.gif)
+Photo Search App made with React using Unsplash API.
 
-
-
-## Add your own Access Key
-Before running, generate your own Unsplash API access keys and add it to `src/searchPhotos.js`
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please use node version 16.13.1
 
 ## Available Scripts
 
